@@ -1,6 +1,6 @@
 # Hi, I'm Manisha Acharya 👋
 
-## Cloud & DevOps Learner
+## Cloud & DevOps Engineer
 
 I am building hands-on experience in Cloud and DevOps through practical projects involving AWS, Linux, Docker, and modern DevOps tools.
 
