@@ -36,9 +36,10 @@ My focus is on learning by deploying, configuring, troubleshooting, and document
 ### Currently Learning
 Docker → CI/CD → Jenkins → Terraform → Kubernetes
 
+
 ## 🚀 Projects
 
-### AWS EC2 Linux Web Server Deployment
+### 1. AWS EC2 Linux Web Server Deployment
 
 Deployed a custom web page on an Ubuntu EC2 instance using Nginx.
 
@@ -48,6 +49,17 @@ Deployed a custom web page on an Ubuntu EC2 instance using Nginx.
 
 ---
 
+### 2. AWS S3 Storage & Lifecycle Management
+
+Implemented secure Amazon S3 object storage with versioning, encryption, lifecycle management, and public access protection.
+
+**Technologies:** Amazon S3 • Versioning • Storage Classes • Lifecycle Rules • SSE-S3 • S3 Security
+
+[View Project](https://github.com/acharyamanisha12/aws-s3-storage-lifecycle)
+
+---
+
+More Cloud & DevOps projects are being added as I progress through hands-on learning.
 More Cloud & DevOps projects are being added as I progress through my hands-on learning.
 
 ## 🎯 Current Focus
